@@ -1,0 +1,93 @@
+{
+  "AC": 15,
+  "Abilities": [
+    "Keen Eye",
+    "Sand Rush"
+  ],
+  "HP": 55,
+  "Hidden Ability": "No Guard",
+  "Hit Dice": 10,
+  "MIN LVL FD": 5,
+  "Moves": {
+    "Level": {
+      "10": [
+        "Rock Tomb",
+        "Roar",
+        "Stealth Rock"
+      ],
+      "14": [
+        "Rock Slide",
+        "Scary Face",
+        "Crunch"
+      ],
+      "18": [
+        "Rock Climb",
+        "Stone Edge"
+      ],
+      "6": [
+        "Rock Throw",
+        "Odor Sleuth"
+      ]
+    },
+    "Starting Moves": [
+      "Bite",
+      "Counter",
+      "Leer",
+      "Reversal",
+      "Sand Attack",
+      "Tackle",
+      "Taunt",
+      "Howl"
+    ],
+    "TM": [
+      5,
+      6,
+      8,
+      10,
+      12,
+      17,
+      21,
+      27,
+      32,
+      39,
+      42,
+      44,
+      45,
+      48,
+      49,
+      69,
+      71,
+      80,
+      87,
+      88,
+      90,
+      95,
+      100
+    ]
+  },
+  "SR": 9.0,
+  "Senses": [
+    "Darkvision 75ft"
+  ],
+  "Skill": [
+    "Survival"
+  ],
+  "Type": [
+    "Rock"
+  ],
+  "WSp": 30,
+  "attributes": {
+    "CHA": 10,
+    "CON": 17,
+    "DEX": 16,
+    "INT": 6,
+    "STR": 16,
+    "WIS": 12
+  },
+  "index": 745,
+  "saving_throws": [
+    "Strength",
+    "Dexterity"
+  ],
+  "size": "Small"
+}

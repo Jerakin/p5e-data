@@ -1,0 +1,88 @@
+{
+  "AC": 16,
+  "Abilities": [
+    "Snow Cloak"
+  ],
+  "Burrowing Speed": 25,
+  "HP": 50,
+  "Hidden Ability": "Slush Rush",
+  "Hit Dice": 10,
+  "MIN LVL FD": 5,
+  "Moves": {
+    "Level": {},
+    "Starting Moves": [
+      "Defense Curl",
+      "Ice Ball",
+      "Icicle Crash",
+      "Icicle Spear",
+      "Metal Burst",
+      "Metal Claw",
+      "Slash"
+    ],
+    "TM": [
+      1,
+      6,
+      7,
+      10,
+      11,
+      14,
+      15,
+      17,
+      20,
+      21,
+      26,
+      27,
+      28,
+      31,
+      32,
+      40,
+      42,
+      44,
+      45,
+      46,
+      48,
+      52,
+      566,
+      65,
+      68,
+      70,
+      74,
+      75,
+      78,
+      79,
+      80,
+      81,
+      84,
+      87,
+      88,
+      90,
+      100
+    ]
+  },
+  "SR": 7.0,
+  "Senses": [
+    "Tremorsense 80ft"
+  ],
+  "Skill": [
+    "Athletics"
+  ],
+  "Type": [
+    "Ice",
+    "Steel"
+  ],
+  "WSp": 30,
+  "attributes": {
+    "CHA": 10,
+    "CON": 14,
+    "DEX": 14,
+    "INT": 6,
+    "STR": 16,
+    "WIS": 12
+  },
+  "index": 28,
+  "saving_throws": [
+    "Constitution",
+    "Strength"
+  ],
+  "size": "Small"
+}

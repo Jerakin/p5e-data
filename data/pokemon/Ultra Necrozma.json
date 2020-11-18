@@ -1,0 +1,110 @@
+{
+  "AC": 22,
+  "Abilities": [
+    "Neuroforce"
+  ],
+  "Fsp": 50,
+  "HP": 486,
+  "Hit Dice": 20,
+  "MIN LVL FD": 20,
+  "Moves": {
+    "Level": {},
+    "Starting Moves": [
+      "Charge Beam",
+      "Confusion",
+      "Metal Claw",
+      "Mirror Shot",
+      "Moonlight",
+      "Morning Sun",
+      "Slash",
+      "Stored Power",
+      "Rock Blast",
+      "Night Slash",
+      "Gravity",
+      "Psycho Cut",
+      "Power Gem",
+      "Autotomize",
+      "Photon Geyser",
+      "Stealth Rock",
+      "Iron Defense",
+      "Wring Out",
+      "Prismatic Laser"
+    ],
+    "TM": [
+      3,
+      4,
+      6,
+      10,
+      15,
+      16,
+      17,
+      21,
+      22,
+      26,
+      27,
+      29,
+      31,
+      32,
+      33,
+      39,
+      40,
+      42,
+      44,
+      46,
+      48,
+      56,
+      57,
+      59,
+      63,
+      65,
+      67,
+      68,
+      69,
+      71,
+      73,
+      74,
+      75,
+      78,
+      80,
+      81,
+      87,
+      88,
+      90,
+      91,
+      92,
+      97,
+      100
+    ]
+  },
+  "SR": 15.0,
+  "Senses": [
+    "Darkvision 150ft",
+    "Truesight 50ft"
+  ],
+  "Skill": [
+    "Insight",
+    "Arcana",
+    "Deception",
+    "Intimidation"
+  ],
+  "Type": [
+    "Psychic",
+    "Dragon"
+  ],
+  "WSp": 50,
+  "attributes": {
+    "CHA": 20,
+    "CON": 20,
+    "DEX": 22,
+    "INT": 16,
+    "STR": 22,
+    "WIS": 24
+  },
+  "index": 800,
+  "saving_throws": [
+    "Strength",
+    "Dexterity",
+    "Wisdom"
+  ],
+  "size": "Huge"
+}

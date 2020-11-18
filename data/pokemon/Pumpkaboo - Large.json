@@ -1,0 +1,69 @@
+{
+  "AC": 14,
+  "Abilities": [
+    "Pickup",
+    "Frisk"
+  ],
+  "Evolve": "Gourgeist",
+  "Fsp": 25,
+  "HP": 17,
+  "Hidden Ability": "Insomnia",
+  "Hit Dice": 6,
+  "MIN LVL FD": 1,
+  "Moves": {
+    "Level": {
+      "10": [
+        "Bullet Seed",
+        "Shadow Sneak"
+      ],
+      "14": [
+        "Shadow Ball",
+        "Trick-or-Treat"
+      ],
+      "18": [
+        "Pain Split",
+        "Seed Bomb"
+      ],
+      "2": [
+        "Worry Seed"
+      ],
+      "6": [
+        "Razor Leaf",
+        "Leech Seed"
+      ]
+    },
+    "Starting Moves": [
+      "Astonish",
+      "Confuse Ray",
+      "Trick",
+      "Scary Face"
+    ],
+    "egg": [
+      "Bestow",
+      "Destiny Bond",
+      "Disable"
+    ]
+  },
+  "SR": 2.0,
+  "Skill": [
+    "Deception"
+  ],
+  "Type": [
+    "Ghost",
+    "Grass"
+  ],
+  "WSp": 20,
+  "attributes": {
+    "CHA": 10,
+    "CON": 15,
+    "DEX": 12,
+    "INT": 6,
+    "STR": 14,
+    "WIS": 12
+  },
+  "index": 710,
+  "saving_throws": [
+    "Constitution"
+  ],
+  "size": "Varies"
+}

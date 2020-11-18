@@ -1,0 +1,124 @@
+{
+  "AC": 12,
+  "Abilities": [
+    "Poison Touch",
+    "Gluttony"
+  ],
+  "Evolve": "Alolan Muk",
+  "HP": 18,
+  "Hidden Ability": "Power of Alchemy",
+  "Hit Dice": 6,
+  "MIN LVL FD": 1,
+  "Moves": {
+    "Level": {
+      "10": [
+        "Fling",
+        "Knock Off",
+        "Crunch"
+      ],
+      "14": [
+        "Screech",
+        "Gunk Shot"
+      ],
+      "18": [
+        "Acid Armor",
+        "Belch",
+        "Memento"
+      ],
+      "2": [
+        "Bite",
+        "Disable"
+      ],
+      "6": [
+        "Acid Spray",
+        "Poison Fang",
+        "Minimize"
+      ]
+    },
+    "Starting Moves": [
+      "Poison Gas",
+      "Pound",
+      "Harden"
+    ],
+    "TM": [
+      6,
+      9,
+      10,
+      11,
+      12,
+      17,
+      18,
+      21,
+      27,
+      30,
+      32,
+      34,
+      35,
+      36,
+      38,
+      39,
+      41,
+      42,
+      44,
+      45,
+      46,
+      48,
+      56,
+      59,
+      60,
+      63,
+      64,
+      66,
+      69,
+      71,
+      80,
+      83,
+      84,
+      87,
+      88,
+      90,
+      95,
+      100
+    ],
+    "egg": [
+      "Assurance",
+      "Clear Smog",
+      "Curse",
+      "Imprison",
+      "Mean Look",
+      "Power-Up Punch",
+      "Pursuit",
+      "Scary Face",
+      "Shadow Sneak",
+      "Spit Up",
+      "Spite",
+      "Stockpile",
+      "Swallow"
+    ]
+  },
+  "SR": 0.5,
+  "Senses": [
+    "Darkvision 30ft"
+  ],
+  "Skill": [
+    "Stealth"
+  ],
+  "Type": [
+    "Poison",
+    "Dark"
+  ],
+  "WSp": 15,
+  "attributes": {
+    "CHA": 8,
+    "CON": 14,
+    "DEX": 9,
+    "INT": 6,
+    "STR": 14,
+    "WIS": 12
+  },
+  "index": 88,
+  "saving_throws": [
+    "Constitution"
+  ],
+  "size": "Small"
+}

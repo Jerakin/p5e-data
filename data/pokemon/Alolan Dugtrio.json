@@ -1,0 +1,92 @@
+{
+  "AC": 15,
+  "Abilities": [
+    "Sand Veil",
+    "Tangling Hair"
+  ],
+  "Burrowing Speed": 30,
+  "HP": 55,
+  "Hidden Ability": "Sand Force",
+  "Hit Dice": 10,
+  "MIN LVL FD": 5,
+  "Moves": {
+    "Level": {
+      "10": [
+        "Mud Bomb",
+        "Earth Power"
+      ],
+      "14": [
+        "Dig",
+        "Iron Head"
+      ],
+      "18": [
+        "Earthquake",
+        "Fissure"
+      ],
+      "6": [
+        "Magnitude",
+        "Bulldoze",
+        "Sucker Punch"
+      ]
+    },
+    "Starting Moves": [
+      "Growl",
+      "Metal Claw",
+      "Night Slash",
+      "Rototiller",
+      "Sand Attack",
+      "Sand Tomb",
+      "Tri Attack",
+      "Growl",
+      "Astonish",
+      "Mud-Slap"
+    ],
+    "TM": [
+      1,
+      6,
+      10,
+      15,
+      17,
+      21,
+      26,
+      27,
+      28,
+      32,
+      36,
+      37,
+      39,
+      40,
+      42,
+      43,
+      44,
+      45,
+      46
+    ]
+  },
+  "SR": 8.0,
+  "Senses": [
+    "Tremorsense 120ft"
+  ],
+  "Skill": [
+    "Stealth",
+    "Athletics"
+  ],
+  "Type": [
+    "Ground",
+    "Steel"
+  ],
+  "attributes": {
+    "CHA": 10,
+    "CON": 16,
+    "DEX": 16,
+    "INT": 6,
+    "STR": 17,
+    "WIS": 12
+  },
+  "index": 51,
+  "saving_throws": [
+    "Dexterity",
+    "Constitution"
+  ],
+  "size": "Small"
+}

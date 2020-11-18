@@ -1,0 +1,8 @@
+{
+  "Description": "Your body forms a shield around its form that grants you temporary hit points equal to a quarter of your max HP (rounded down). During this time, you have an AC of 1, but you become immune to negative conditions (including things like prone, restrained, etc.) and the shield takes all damage you would normally take until it is destroyed. The shield cannot be healed, and it does not take self-inflicted conditions. Any damage dealt to the shield forces you to make a save to maintain concentration as if you took the damage yourself. If the damage dealt is enough to destroy the shield, you take the remaining damage. Sound-based moves bypass the shield. In future instances of this move in the same combat, you must roll higher than a 10 on a d20 roll for the move to be successful.",
+  "Duration": "1 minute, Concentration",
+  "Move Time": "1 action",
+  "PP": 5,
+  "Range": "Self",
+  "Type": "Normal"
+}

@@ -1,0 +1,106 @@
+{
+  "AC": 15,
+  "Abilities": [
+    "Magnet Pull",
+    "Sturdy"
+  ],
+  "Evolve": "Alolan Golem",
+  "HP": 55,
+  "Hidden Ability": "Galvanize",
+  "Hit Dice": 8,
+  "MIN LVL FD": 5,
+  "Moves": {
+    "Level": {
+      "10": [
+        "Self-Destruct",
+        "Stealth Rock"
+      ],
+      "14": [
+        "Rock Blast",
+        "Discharge"
+      ],
+      "18": [
+        "Explosion",
+        "Double-Edge",
+        "Stone Edge"
+      ],
+      "6": [
+        "Rock Throw",
+        "Smack Down",
+        "Thunder Punch"
+      ]
+    },
+    "Starting Moves": [
+      "Charge",
+      "Defense Curl",
+      "Rock Polish",
+      "Tackle",
+      "Rollout",
+      "Spark"
+    ],
+    "TM": [
+      6,
+      10,
+      11,
+      17,
+      21,
+      23,
+      24,
+      25,
+      26,
+      27,
+      31,
+      32,
+      35,
+      37,
+      38,
+      39,
+      42,
+      44,
+      45,
+      48,
+      56,
+      57,
+      59,
+      64,
+      69,
+      71,
+      72,
+      74,
+      78,
+      80,
+      87,
+      88,
+      90,
+      96,
+      100
+    ]
+  },
+  "SR": 6.0,
+  "Senses": [
+    "Tremorsense 50ft"
+  ],
+  "Skill": [
+    "Athletics",
+    "Survival"
+  ],
+  "Type": [
+    "Rock",
+    "Electric"
+  ],
+  "WSp": 25,
+  "attributes": {
+    "CHA": 10,
+    "CON": 16,
+    "DEX": 10,
+    "INT": 6,
+    "STR": 16,
+    "WIS": 12
+  },
+  "index": 75,
+  "saving_throws": [
+    "Constitution",
+    "Strength"
+  ],
+  "size": "Medium"
+}

@@ -1,0 +1,114 @@
+{
+  "AC": 12,
+  "Abilities": [
+    "Sand Veil",
+    "Tangling Hair"
+  ],
+  "Burrowing Speed": 20,
+  "Evolve": "Alolan Dugtrio",
+  "HP": 18,
+  "Hidden Ability": "Sand Force",
+  "Hit Dice": 6,
+  "MIN LVL FD": 1,
+  "Moves": {
+    "Level": {
+      "10": [
+        "Mud Bomb",
+        "Earth Power",
+        "Dig"
+      ],
+      "14": [
+        "Iron Head",
+        "Earthquake"
+      ],
+      "18": [
+        "Fissure"
+      ],
+      "2": [
+        "Astonish",
+        "Mud-Slap"
+      ],
+      "6": [
+        "Magnitude",
+        "Bulldoze",
+        "Sucker Punch"
+      ]
+    },
+    "Starting Moves": [
+      "Metal Claw",
+      "Sand Attack",
+      "Growl"
+    ],
+    "TM": [
+      1,
+      6,
+      10,
+      11,
+      15,
+      17,
+      21,
+      26,
+      27,
+      32,
+      34,
+      36,
+      37,
+      39,
+      40,
+      42,
+      44,
+      45,
+      46,
+      48,
+      49,
+      65,
+      68,
+      71,
+      78,
+      80,
+      87,
+      88,
+      90,
+      91,
+      100
+    ],
+    "egg": [
+      "Ancient Power",
+      "Beat Up",
+      "Endure",
+      "Feint Attack",
+      "Final Gambit",
+      "Headbutt",
+      "Memento",
+      "Metal Sound",
+      "Pursuit",
+      "Reversal",
+      "Thrash"
+    ]
+  },
+  "SR": 0.5,
+  "Senses": [
+    "Tremorsense 80ft"
+  ],
+  "Skill": [
+    "Stealth",
+    "Athletics"
+  ],
+  "Type": [
+    "Ground",
+    "Steel"
+  ],
+  "attributes": {
+    "CHA": 10,
+    "CON": 14,
+    "DEX": 10,
+    "INT": 6,
+    "STR": 12,
+    "WIS": 10
+  },
+  "index": 50,
+  "saving_throws": [
+    "Dexterity"
+  ],
+  "size": "Tiny"
+}

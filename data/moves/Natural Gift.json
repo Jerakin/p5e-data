@@ -1,0 +1,35 @@
+{
+  "Damage": {
+    "1": {
+      "amount": 1,
+      "dice_max": 12,
+      "move": true
+    },
+    "10": {
+      "amount": 2,
+      "dice_max": 12,
+      "move": true
+    },
+    "17": {
+      "amount": 6,
+      "dice_max": 6,
+      "move": true
+    },
+    "5": {
+      "amount": 2,
+      "dice_max": 8,
+      "move": true
+    }
+  },
+  "Description": "You draw in power from your held berry, releasing it into a ranged attack. Make a ranged attack, dealing 1d12 + MOVE damage on a hit. The type is dependant on what berry you are holding, according to the chart below:\n\n<div style='column-count:2'>\n\n| Type  | Berry|\n|:---:|:-----------:|\n|  Normal  | Chilan |\n|  Fire  | Cherri, Occa |\n|  Water  | Chesto, Passho |\n|  Electric  | Pecha, Waccan |\n|  Grass  | Rawst, Rindo |\n|  Ice  | Aspear, Yache |\n|  Fighting  | Leppa, Chople |\n|  Poison  | Oran, Kebia |\n|  Ground  | Persim, Shucca |\n\n\n| Type  | Berry |\n|:---:|:-----------:|\n|  Flying  | Lum, Coba |\n|  Psychic  | Sitrus, Payapa |\n|  Bug  | Tanga |\n|  Rock  | Charti |\n|  Ghost  | Kasib |\n|  Dragon  | Haban |\n|  Dark  | Colbur |\n|  Steel  | Babiri, Razz |\n|  Fairy  | Roseli |\n\n</div>",
+  "Duration": "Instantaneous",
+  "Move Power": [
+    "STR",
+    "DEX"
+  ],
+  "Move Time": "1 action",
+  "PP": 10,
+  "Range": "40ft",
+  "Type": "Varies",
+  "atk": true
+}
