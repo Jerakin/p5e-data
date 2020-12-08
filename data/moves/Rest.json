@@ -30,5 +30,6 @@
   "Move Time": "1 action",
   "PP": 5,
   "Range": "Self",
+  "Scaling": "Higher Levels: The dice roll for healing increases to 6d6 at level 5, 8d6 at level 10, and 8d10 at level 17.",
   "Type": "Psychic"
 }

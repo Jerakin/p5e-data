@@ -9,5 +9,6 @@
   "PP": 10,
   "Range": "80ft",
   "Save": "WIS",
+  "Scaling": "Higher Levels: The target adds -3 at level 5, -4 at level 10, and -5 at level 17.",
   "Type": "Fairy"
 }

@@ -8,5 +8,6 @@
   "PP": 5,
   "Range": "Self (30ft radius)",
   "Save": "DEX",
+  "Scaling": "Higher Levels: For damage rolls, use 2x Dice at level 5, 3x Dice at level 10, and 4x Dice at level 17.",
   "Type": "Ground"
 }

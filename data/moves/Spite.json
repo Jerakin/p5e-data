@@ -30,5 +30,6 @@
   "PP": 3,
   "Range": "30ft",
   "Save": "WIS",
+  "Scaling": "Higher Levels: PP is drained by 1d6 at level 5, 1d8 at level 10, and 1d10 at level 17.",
   "Type": "Ghost"
 }

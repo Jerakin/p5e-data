@@ -8,6 +8,7 @@
   "Move Time": "1 action",
   "PP": 5,
   "Range": "50ft",
+  "Scaling": "Higher Levels: You may continue to stockpile damage for 2 turns at level 10 and above.",
   "Type": "Normal",
   "atk": true
 }

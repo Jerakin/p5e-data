@@ -26,5 +26,6 @@
   "Move Time": "1 action",
   "PP": 10,
   "Range": "30ft",
+  "Scaling": "Higher Levels: The number of hit points affected changes to 7d8 at level 5, 6d12 at level 10, and 11d8 at level 17.",
   "Type": "Normal"
 }

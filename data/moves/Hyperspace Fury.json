@@ -8,6 +8,7 @@
   "Move Time": "1 action",
   "PP": 3,
   "Range": "60ft",
+  "Scaling": "Higher Levels: You can fire 4 projectiles at level 5, 5 projectiles at level 10, and 6 projectiles at level 17.",
   "Type": "Dark",
   "auto_hit": true
 }

@@ -29,6 +29,7 @@
   "Move Time": "1 bonus action",
   "PP": 15,
   "Range": "Melee",
+  "Scaling": "Higher Levels: The damage dice roll for this move changes to 1d6 at level 5, 1d10 at level 10, and 1d12 at level 17.",
   "Type": "Rock",
   "atk": true
 }

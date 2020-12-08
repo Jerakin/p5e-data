@@ -31,5 +31,6 @@
   "PP": 5,
   "Range": "10ft",
   "Save": "WIS",
+  "Scaling": "Higher Levels: The damage dice roll for this move changes to 2d4 at level 5, 1d12 at level 10, and 4d4 at level 17.",
   "Type": "Ghost"
 }

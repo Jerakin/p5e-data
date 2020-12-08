@@ -31,6 +31,7 @@
   "PP": 10,
   "Range": "Melee",
   "Save": "STR",
+  "Scaling": "Higher Levels: The damage dice roll for this move changes to 2d8 at level 5, 5d4 at level 10, and 4d8 at level 17.",
   "Type": "Fighting",
   "atk": true
 }
