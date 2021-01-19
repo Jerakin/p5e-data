@@ -24,7 +24,8 @@
   "Description": "You extend your shadow to strike a creature from behind. As a bonus action, you can control your shadow to make a ranged attack roll against a target within range dealing 1d4 ghost damage on a hit.",
   "Duration": "Instantaneous",
   "Move Power": [
-    "DEX"
+    "DEX",
+    "WIS"
   ],
   "Move Time": "1 bonus action",
   "PP": 20,

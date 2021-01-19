@@ -21,7 +21,7 @@
       "move": true
     }
   },
-  "Description": "When you activate this move, you use your action gathering in solar energy to prepare to strike with blades.  On your next turn, if you keep your concentration, use an action to make a melee attack, dealing 2d10 + MOVE grass damage on a hit. If this move is used in harsh sunlight, double your MOVE modifier for damage and it can be used on the turn it is activated.",
+  "Description": "When you activate this move, you use your action gathering in solar energy to prepare to strike with blades.  On your next turn, if you keep your concentration, use an action to make a melee attack, dealing 2d10 + MOVE grass damage on a hit. If this move is used in harsh sunlight, double your MOVE modifier for damage and it can be used on the turn it is activated. If this move is used in harsh sunlight, double your MOVE modifier for damage and it can be used on the turn it is activated, without concentration.",
   "Duration": "1 round, Concentration",
   "Move Power": [
     "STR",

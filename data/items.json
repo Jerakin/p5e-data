@@ -222,7 +222,7 @@
     "Effect": "Holder adds prof. bonus to damage from flying-type moves."
   },
   "Shell Bell": {
-    "Effect": "Holder recovers 1d4 hit points after any successful attack (Once per turn)."
+    "Effect": "Restores HP = prof. bonus after activating a move that damages at least one creature."
   },
   "Shuca Berry": {
     "Effect": "Pokémon takes half damage from a ground-type move. Activates when damaged by a ground-type move."

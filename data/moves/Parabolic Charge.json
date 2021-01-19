@@ -24,7 +24,8 @@
   "Description": "A sweeping electric charge arcs around you, stealing some of the target's energy. Force all creatures in a 60 foot circle, centered on you, to make a CON save against your Move DC, taking 1d10 + MOVE electric damage on a failure. Recover hit points equal to half the total damage dealt, but no more than 5 times your level.",
   "Duration": "Instantaneous",
   "Move Power": [
-    "STR"
+    "STR",
+    "DEX"
   ],
   "Move Time": "1 action",
   "PP": 10,

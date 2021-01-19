@@ -21,7 +21,7 @@
       "move": true
     }
   },
-  "Description": "You summon an infestation of tiny insects to attack a creature for multiple turns. Make a ranged attack on a target. On a hit, the target takes 1d4 + MOVE bug damage and becomes infested for 1d4 rounds. An infested creature must make a CON save against your Move DC at the beginning of each of its turns, taking 1d4 + MOVE bug damage on a failed save.",
+  "Description": "You summon an infestation of tiny insects to attack a creature for multiple turns. Make a ranged attack on a target. On a hit, the target takes 1d4 + MOVE bug damage and becomes infested for 1d4 rounds. An infested creature takes 1d4 + MOVE bug damage at the beginning of each of its turns for the duration.",
   "Duration": "1d4 rounds",
   "Move Power": [
     "CON"
@@ -29,7 +29,6 @@
   "Move Time": "1 action",
   "PP": 5,
   "Range": "30ft",
-  "Save": "CON",
   "Scaling": "Higher Levels: The damage dice roll for this move changes to 1d6 at level 5, 1d8 at level 10, and 2d6 at level 17.",
   "Type": "Bug",
   "atk": true

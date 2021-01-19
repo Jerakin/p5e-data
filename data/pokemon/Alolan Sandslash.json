@@ -4,6 +4,7 @@
     "Snow Cloak"
   ],
   "Burrowing Speed": 25,
+  "Climbing Speed": 25,
   "HP": 50,
   "Hidden Ability": "Slush Rush",
   "Hit Dice": 10,

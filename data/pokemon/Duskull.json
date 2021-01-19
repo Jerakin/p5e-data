@@ -76,6 +76,7 @@
       100
     ],
     "egg": [
+      "Dark Pulse",
       "Destiny Bond",
       "Feint Attack",
       "Grudge",
@@ -83,7 +84,8 @@
       "Imprison",
       "Memento",
       "Ominous Wind",
-      "Pain Split"
+      "Pain Split",
+      "Skill Swap"
     ]
   },
   "SR": 1.0,

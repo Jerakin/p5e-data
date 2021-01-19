@@ -3,6 +3,7 @@
   "Abilities": [
     "Pressure"
   ],
+  "Burrowing Speed": 40,
   "HP": 78,
   "Hidden Ability": "Pickpocket",
   "Hit Dice": 10,

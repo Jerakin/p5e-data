@@ -22,7 +22,7 @@
     }
   },
   "Description": "You release a series of moving flames that dance around a target. Make a ranged attack roll, doing 1d6 + MOVE fire damage on a hit. As long as you maintain concentration, the target takes an additional 1d6 fire damage at the end of each of its next three turns.",
-  "Duration": "3 turns, Concentration",
+  "Duration": "3 rounds, Concentration",
   "Move Power": [
     "DEX"
   ],

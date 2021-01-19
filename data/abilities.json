@@ -111,13 +111,13 @@
     "Description": "When this Pokémon is in battle, all dark-type moves by allies or opponents within 100 feet deal double their damage."
   },
   "Dazzling": {
-    "Description": "Bonus action moves activated by any creature within sight of this Pokémon become standard actions."
+    "Description": "Creatures within line of sight of this Pokémon cannot use bonus actions to activate Moves. Moves that would normally have a Move Time of \"1 bonus action\" instead have a Move Time of \"1 action."
   },
   "Defeatist": {
     "Description": "When this Pokémon drops below 25% of its maximum HP, all of its attacks are rolled with disadvantage."
   },
   "Defiant": {
-    "Description": "When this Pokémon is subject to a move that gives it a status condition, it has advantage on the next attack."
+    "Description": "While this Pokémon is suffering from a negative status effect or stat change imposed by an opponent, it gains +2 to all attack rolls."
   },
   "Disguise": {
     "Description": "This Pokémon has a disguise which gives it a temporary hp boost equal to twice its level. When the temporary hit points fall to zero, the disguise breaks and requires a short rest to repair."
@@ -440,8 +440,8 @@
   "Pure Power": {
     "Description": "Once per short rest, this Pokémon may double the damage dice for a single damage roll. The player must announce that they are using this ability before the attack roll."
   },
-  "Queen Majesty": {
-    "Description": "Bonus action moves activated by any creature within sight of this Pokémon become standard actions."
+  "Queenly Majesty": {
+    "Description": "Creatures within line of sight of this Pokémon cannot use bonus actions to activate Moves. Moves that would normally have a Move Time of \"1 bonus action\" instead have a Move Time of \"1 action."
   },
   "Quick Feet": {
     "Description": "When suffering from a negative status condition, this Pokémon’s speed increases by 15 ft."
