@@ -24,16 +24,29 @@ jobs:
         with:
           submodules: recursive
           ref: no-variants
-          
+
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+        
+      # this Action should follow steps to set up Python build environment
+      - name: Install Python dependencies
+        uses: py-actions/py-dependency-install@v2
+        with:
+          path: "p5e-data-conversion/requirements.txt"
+      
       # Put the version into the version file
       - name: Run a one-line script
-        run: echo '${{ github.event.inputs.version }}' > '${{ github.workspace }}/p5e-data/VERSION'
+        run: echo '${{ github.event.inputs.version }}' > '${{ github.workspace }}/VERSION'
         
+      - run: echo '${{secrets.SERVICE_ACCOUNT}}' >> "secret.json"
+
       # Runs the data fetch
       - name: Update data
-        run: python '$GITHUB_WORKSPACE/p5e-data/p5e-data-conversion/main.py -k -np -o ${{ github.workspace }}/p5e-data/data' 
+        run: python '${{ github.workspace }}/p5e-data-conversion/main.py' "secret.json" -k -nv -o '${{ github.workspace }}/data' 
       
       # Add and commit changes
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update '${{ github.event.inputs.version }}'
+          file_pattern: data 
