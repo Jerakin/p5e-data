@@ -31,6 +31,6 @@
   "PP": 5,
   "Range": "Self (100ft line)",
   "Save": "DEX",
-  "Scaling": "Higher Levels: The damage dice roll for this move changes to 2d12 at level 5, 4d8 at level 10, and 8d6 at level 17.",
+  "Scaling": "Higher Levels: The damage dice roll for this move changes to 4d10 at level 5, 6d10 at level 10, and 8d12 at level 17.",
   "Type": "Ghost"
 }

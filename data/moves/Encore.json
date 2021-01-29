@@ -1,5 +1,5 @@
 {
-  "Description": "After being targeted by a move, force a creature to make a WIS save against your Move DC as a reaction. On a fail, no other move may be activated by the target creature until after the end of its next turn.",
+  "Description": "After being targeted by a move, force a creature to make a WIS save against your Move DC as a reaction. On a fail, the creature must target you with the same move used on their next turn, even if you may be out of range.",
   "Duration": "Instantaneous",
   "Move Power": [
     "WIS",

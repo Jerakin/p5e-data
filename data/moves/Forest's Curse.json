@@ -1,5 +1,5 @@
 {
-  "Description": "You summon the energy of the forest to change the type of another creature. Force a creature in range to make a CHA save against your Move DC. On a failure, its type is changed to Grass through their next three turns in battle.",
+  "Description": "You summon the energy of the forest to change the type of another creature. Force a creature in range to make a CON save against your Move DC. On a failure, its type is changed to Grass through their next three turns in battle.",
   "Duration": "3 rounds",
   "Move Power": [
     "CON",
@@ -8,6 +8,6 @@
   "Move Time": "1 action",
   "PP": 5,
   "Range": "30ft",
-  "Save": "CHA",
+  "Save": "CON",
   "Type": "Grass"
 }

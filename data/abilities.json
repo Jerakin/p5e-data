@@ -93,7 +93,7 @@
     "Description": "Moves that directly increase or decrease this Pokémon's stats have the opposite effect. This ability has no effect on moves that would \"swap\" or \"average\" stats with a target like Heart Swap, Guard Split, etc."
   },
   "Corrosion": {
-    "Description": "This Pokémon's moves ignore poison immunity, and can inflict the poisoned status on steel and poison-type Pokémon."
+    "Description": "This Pokémon's moves ignore the poison immunity of creatures granted by their Pokémon type, and can inflict the poisoned status on poison and steel type creatures. If the target’s secondary type gives it vulnerability or resistance to the damage, it follows the secondary type for that effect."
   },
   "Cursed Body": {
     "Description": "When hit by a melee attack, this Pokémon may roll 1d4. On a result of 4, the opponent who made the attack cannot use the same move on its next turn."
@@ -333,7 +333,7 @@
     "Description": "This Pokémon's AC increase by 2 when suffering from a negative status condition."
   },
   "Mega Launcher": {
-    "Description": "Aura and Pulse moves made by this Pokémon deal additional damage equal to this Pokémon's proficiency bonus."
+    "Description": "Aura and Pulse moves made by this Pokémon deal additional damage/healing equal to this Pokémon's proficiency bonus."
   },
   "Merciless": {
     "Description": "When this Pokémon makes a successful attack roll against a Poisoned Pokemon, treat that attack as a critical hit."
@@ -381,7 +381,7 @@
     "Description": "This Pokémon is immune to moves that attempt to charm or taunt it."
   },
   "Overcoat": {
-    "Description": "This Pokémon does not take damage from weather-related moves like Hail, Weather Ball, etc."
+    "Description": "This Pokémon does not take damage from weather-related moves and phenomena like Hail, Weather Ball, etc."
   },
   "Overgrow": {
     "Description": "This Pokémon doubles its STAB bonus when it has 25% or less of its maximum health."
@@ -393,7 +393,7 @@
     "Description": "This Pokémon is immune to becoming confused."
   },
   "Paper Thin": {
-    "Description": "This Pokémon always has a maximum HP of 1."
+    "Description": "This Pokémon always has a maximum HP of 1. (Shedinja only. Cannot be passed or swapped)"
   },
   "Pickpocket": {
     "Description": "When hit by a melee attack, this Pokémon may use a reaction to attempt to steal the creature's held item with a Sleight of Hand check contested by the target's Passive Perception. After the first attempt, all other attempts against the same opponent are rolled at disadvantage."
@@ -711,7 +711,7 @@
     "Description": "When a damaging move causes this Pokémon to fall below 50% of its maximum HP, it MUST disengage and move up to its speed in a straight line towards its trainer as a free action. If this would put the Pokémon in range of switching out, it must do so as another free action if another Pokémon is available to replace it."
   },
   "Wonder Guard": {
-    "Description": "This Pokémon is immune to damaging attacks from types that are not in its vulnerabilities list."
+    "Description": "This Pokémon is immune to damaging attacks from types that are not in its vulnerabilities list. (Shedinja only. Cannot be passed or swapped)"
   },
   "Wonder Skin": {
     "Description": "This Pokémon has advantage on all saving throws against being burned, frozen, poisoned, or paralyzed."

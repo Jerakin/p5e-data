@@ -24,6 +24,7 @@
   "Description": "You unleash a devastating uppercutting fist that continues to strike skyward with force. Make a ranged attack roll against a creature, dealing 2d6 + MOVE fighting damage on a hit. This move can target creatures in the invulnerable stages of Fly, Bounce and Sky Drop, if the target used that move within range.",
   "Duration": "Instantaneous",
   "Move Power": [
+    "STR",
     "DEX"
   ],
   "Move Time": "1 action",

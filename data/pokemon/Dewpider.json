@@ -91,5 +91,8 @@
     "WIS": 10
   },
   "index": 751,
+  "saving_throws": [
+    "Dexterity"
+  ],
   "size": "Tiny"
 }

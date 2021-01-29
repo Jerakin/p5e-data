@@ -31,5 +31,6 @@
   "PP": 3,
   "Range": "Self (15ft radius)",
   "Save": "DEX",
+  "Scaling": "Higher Levels: The damage dice roll for this move changes to 5d6 at level 5, 6d8 at level 10, and 6d12 at level 17.",
   "Type": "Fire"
 }

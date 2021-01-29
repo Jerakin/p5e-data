@@ -861,7 +861,7 @@
     ],
     "current_stage": 2,
     "total_stages": 3,
-    "points": 4,
+    "points": 6,
     "level": 15
   },
   "Magmar": {
@@ -870,7 +870,7 @@
     ],
     "current_stage": 2,
     "total_stages": 3,
-    "points": 4,
+    "points": 6,
     "level": 15
   },
   "Magikarp": {
@@ -1488,7 +1488,7 @@
     ],
     "current_stage": 1,
     "total_stages": 2,
-    "points": 4,
+    "points": 11,
     "level": 8
   },
   "Elekid": {
@@ -1497,7 +1497,7 @@
     ],
     "current_stage": 1,
     "total_stages": 3,
-    "points": 4,
+    "points": 8,
     "level": 8
   },
   "Magby": {
@@ -1506,7 +1506,7 @@
     ],
     "current_stage": 1,
     "total_stages": 3,
-    "points": 4,
+    "points": 8,
     "level": 8
   },
   "Blissey": {

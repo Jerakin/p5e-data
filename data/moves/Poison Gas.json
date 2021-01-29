@@ -21,7 +21,7 @@
       "move": true
     }
   },
-  "Description": "You create a fog of poisonous gas in a 15 foot radius, centered on a point within range. Creatures that begin their turn in the area take 1d4 + MOVE poison damage and must succeed on a CON save against your Move DC or become poisoned. The area of gas is considered difficult terrain, and any attacks made from inside it are done at disadvantage. The gas cloud dissipates at the beginning of your next turn.",
+  "Description": "You create a fog of poisonous gas in a 15 foot radius, centered on a point within range. Creatures that begin their turn in the area take 1d4 + MOVE poison damage and must succeed on a CON save against your Move DC or become poisoned. The gas cloud dissipates at the beginning of your next turn.",
   "Duration": "1 round",
   "Move Power": [
     "CON"

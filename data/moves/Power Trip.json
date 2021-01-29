@@ -21,7 +21,7 @@
       "move": true
     }
   },
-  "Description": "You boast your strength and attack a target. Make a melee attack, doing 1d4 + MOVE dark damage on a hit. For each unique stat change affecting the user, add an additional damage dice.",
+  "Description": "You boast your strength and attack a target.  Make a melee attack, doing 1d4 + MOVE dark damage on a hit. For each unique stat change affecting the user, add an additional damage dice.",
   "Duration": "Instantaneous",
   "Move Power": [
     "STR",

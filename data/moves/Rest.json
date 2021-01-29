@@ -21,7 +21,7 @@
       "move": true
     }
   },
-  "Description": "You put yourself to sleep, but recover 4d6 + MOVE hit points in the process.",
+  "Description": "When you activate this move, you fall asleep after the end of your turn, but recover 4d6 + MOVE hit points in the process. You do not regain health if you do not fall asleep.",
   "Duration": "Instantaneous",
   "Move Power": [
     "WIS",

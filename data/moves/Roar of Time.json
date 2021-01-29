@@ -27,9 +27,9 @@
     "STR",
     "WIS"
   ],
-  "Move Time": "1+1d4 actions, recharge",
+  "Move Time": "1 action, recharge",
   "PP": 3,
-  "Range": "Self (20ft radius)",
+  "Range": "Self (40ft radius)",
   "Save": "WIS",
   "Scaling": "Higher Levels: The damage dice roll for this move changes to 4d10 at level 5, 6d10 at level 10, and 8d12 at level 17.",
   "Type": "Dragon"
