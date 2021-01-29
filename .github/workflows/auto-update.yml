@@ -27,11 +27,11 @@ jobs:
           
       # Put the version into the version file
       - name: Run a one-line script
-        run: echo '${{ github.event.inputs.version }}' > '$GITHUB_WORKSPACE/p5e-data/VERSION'
+        run: echo '${{ github.event.inputs.version }}' > '${{ github.workspace }}/p5e-data/VERSION'
         
       # Runs the data fetch
       - name: Update data
-        run: python '$GITHUB_WORKSPACE/p5e-data/p5e-data-conversion/main.py -k -np -o $GITHUB_WORKSPACE/p5e-data/data' 
+        run: python '$GITHUB_WORKSPACE/p5e-data/p5e-data-conversion/main.py -k -np -o ${{ github.workspace }}/p5e-data/data' 
       
       # Add and commit changes
       - uses: stefanzweifel/git-auto-commit-action@v4
