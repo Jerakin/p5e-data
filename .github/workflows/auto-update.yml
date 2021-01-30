@@ -49,4 +49,4 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update '${{ github.event.inputs.version }}'
-          file_pattern: data 
+          file_pattern: data VERSION
