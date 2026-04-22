@@ -1,22 +1,22 @@
 {
   "Damage": {
     "1": {
-      "amount": 0,
+      "amount": 1,
       "dice_max": 6,
       "move": true
     },
     "10": {
-      "amount": 0,
+      "amount": 1,
       "dice_max": 10,
       "move": true
     },
     "17": {
-      "amount": 0,
+      "amount": 1,
       "dice_max": 12,
       "move": true
     },
     "5": {
-      "amount": 0,
+      "amount": 1,
       "dice_max": 8,
       "move": true
     }
